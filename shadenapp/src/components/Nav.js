@@ -31,7 +31,7 @@ const Nav = () => {
                    <button
                      type="button"
                      className="text-blue-800"
-                     onClick={() => keycloak.login()}
+                     onClick={() => keycloak}
                    >
                      Login
                    </button>
